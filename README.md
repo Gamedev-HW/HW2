@@ -1,7 +1,7 @@
 # HW2
 
 
-#Itch.io Link
+# Itch.io Link
 https://gamedev-hw.itch.io/hw2
 
 
